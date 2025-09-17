@@ -1,0 +1,10 @@
+# Ignore plugin manager files
+packer_compiled.lua
+lazy-lock.json
+
+# Ignore swap, undo, backup
+swap/
+undo/
+backup/
+*.swp
+*.swo
